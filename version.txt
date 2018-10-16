@@ -1,1 +1,1 @@
-this is the new version
+Version 1.1
